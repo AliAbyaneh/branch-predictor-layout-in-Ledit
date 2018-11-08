@@ -29,7 +29,7 @@ layout was designed in Ledit, the goal was minimizing the area, the extracted ne
 
 ### Final result
 
-![alt text](ٌWave.PNG)
+![alt text](Wave.PNG)
 
 
 
