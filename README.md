@@ -26,6 +26,10 @@ layout was designed in Ledit, the goal was minimizing the area, the extracted ne
 ![alt text](DFF.PNG)
 
 
+### Branch predictor layout
+
+![alt text](FinalCir.png)
+
 
 ### Final result
 
